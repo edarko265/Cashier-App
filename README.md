@@ -44,7 +44,7 @@ C# (Windows Forms)
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/vincentbui21/CashierApplication.git
+[https://github.com/edarko265/Cashier-App.git]
 ```
 
 2. Open the project in Visual Studio.
